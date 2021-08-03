@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://luxplanjay.github.io/goit-js-hw-11-color-switch",
+  "homepage": "https://zeka2021.github.io/goit-js-hw-11-color-switch",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-11-color-switch/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/goit-js-hw-11-color-switch.git"
+    "url": "git+https://zeka2021.github.io/goit-js-hw-11-color-switch.git"
   },
   "keywords": [],
   "author": "",
